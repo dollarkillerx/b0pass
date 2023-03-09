@@ -1,0 +1,8 @@
+framework module "B0pass" {
+	header "ref.h"
+    header "B0pass.objc.h"
+    header "Universe.objc.h"
+    header "B0pass.h"
+
+    export *
+}
