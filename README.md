@@ -1,3 +1,13 @@
+# mobile go 支持
+
+``` 
+      go install golang.org/x/mobile/cmd/gomobile@latest
+      go install golang.org/x/mobile/cmd/gobind@latest
+      go get golang.org/x/mobile/cmd/gobind
+      go get golang.org/x/mobile/cmd/gomobile
+      gomobile init
+```
+
 # 百灵快传（B0Pass）
 
 LAN large file transfer tool。
